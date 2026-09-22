@@ -297,11 +297,7 @@
 		La seguridad, por tanto, debe considerarse una combinación de controles técnicos y supervisión humana, y no una propiedad automática de utilizar MCP.
 
 REFERENCIAS
-	Model Context Protocol. (s. f.). Filesystem MCP Server. GitHub.
-	MCP — Filesystem Server
-	Model Context Protocol. (s. f.). Filesystem server implementation. GitHub.
-	MCP — Filesystem Server Implementation
-	Model Context Protocol. (s. f.). Filesystem server library and path validation. GitHub.
-	MCP — Path Validation Implementation
-	Model Context Protocol. (s. f.). Security policy and advisories. GitHub.
-	MCP — Security Advisories
+	Model Context Protocol. (s. f.). Filesystem MCP Server. GitHub.https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/README.md
+	Model Context Protocol. (s. f.). Filesystem server implementation. GitHub.https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/index.ts
+	Model Context Protocol. (s. f.). Filesystem server library and path validation. GitHub.https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/lib.ts
+	Model Context Protocol. (s. f.). Security policy and advisories. GitHub.https://github.com/modelcontextprotocol/servers/security/advisories
